@@ -17,5 +17,9 @@ I'll be back to work more on this video later, as I've just been granted access 
 [def5]: <Screen Shot 2023-08-09 at 8.28.17 PM.png>
 
 I'm back at it on August 10, 2023, starting at about 8:10 p.m., coding along with Kylie. She just guided us through a number guessing program. <br>
-![Alt text](<Screen Shot 2023-08-10 at 8.30.50 PM.png>)
-![Alt text](<Screen Shot 2023-08-10 at 8.30.50 PM-1.png>)
+![Alt text](<Screen Shot 2023-08-10 at 8.30.50 PM.png>) <br>
+![Alt text](<Screen Shot 2023-08-10 at 8.30.39 PM.png>) <br>
+
+And at 8:54, I'm finished coding along to complete a number guessing game where I pick a number and the computer narrows it down until it guesses correctly. These two number guessing games furter cured a few key concepts for me. <br>
+![Alt text](<Screen Shot 2023-08-10 at 8.52.33 PM.png>) <br>
+![Alt text](<Screen Shot 2023-08-10 at 8.52.42 PM.png>) <br>
