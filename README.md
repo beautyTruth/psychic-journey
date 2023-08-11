@@ -23,3 +23,6 @@ I'm back at it on August 10, 2023, starting at about 8:10 p.m., coding along wit
 And at 8:54, I'm finished coding along to complete a number guessing game where I pick a number and the computer narrows it down until it guesses correctly. These two number guessing games furter cured a few key concepts for me. <br>
 ![Alt text](<Screen Shot 2023-08-10 at 8.52.33 PM.png>) <br>
 ![Alt text](<Screen Shot 2023-08-10 at 8.52.42 PM.png>) <br>
+
+At 9:19 with 1:07 hours of coding along with Kylie, I've just finished the rock, paper, scissors game. That was project 4 of 12 and we're only 00:24 through 03:00 hours of video. So I think the projects are going to increase in complexity. <br>
+![Alt text](<Screen Shot 2023-08-10 at 9.22.25 PM.png>)
