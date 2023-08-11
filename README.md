@@ -26,3 +26,5 @@ And at 8:54, I'm finished coding along to complete a number guessing game where 
 
 At 9:19 with 1:07 hours of coding along with Kylie, I've just finished the rock, paper, scissors game. That was project 4 of 12 and we're only 00:24 through 03:00 hours of video. So I think the projects are going to increase in complexity. <br>
 ![Alt text](<Screen Shot 2023-08-10 at 9.22.25 PM.png>)
+
+Back at it at 11:11 on Friday, August 11, 2023. Gonna code along with Kylie for as long as my brain cooperates.
