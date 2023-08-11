@@ -27,4 +27,13 @@ And at 8:54, I'm finished coding along to complete a number guessing game where 
 At 9:19 with 1:07 hours of coding along with Kylie, I've just finished the rock, paper, scissors game. That was project 4 of 12 and we're only 00:24 through 03:00 hours of video. So I think the projects are going to increase in complexity. <br>
 ![Alt text](<Screen Shot 2023-08-10 at 9.22.25 PM.png>)
 
-Back at it at 11:11 on Friday, August 11, 2023. Gonna code along with Kylie for as long as my brain cooperates.
+Back at it at 11:11 on Friday, August 11, 2023. Gonna code along with Kylie for as long as my brain cooperates. <br>
+
+I left at about noon to get a haircut and a beard trim. Now I'm back at just after 6 p.m. to continue with hangman. <br>
+
+I just finished hangman at 6:32 p.m. without having to stop for anything yet. I have conquered briefly what appear to be ADD symptoms every time I sit down to code. Like, why do I always feel the need to go do something else? "I think I'll go get a haircut and a beard trim." "I think I'll make some coffee." "I think I'll vacuum the carpet." <br>
+
+Along with my vow to not watch football in my apartment this season, I am hereby making a vow to not check twitter or any social media once I have made a point to sit down to learn. Additionally, I now vow to not do anything unnecessary while I am proceeding with a predetermined learning time like now! <br>
+![Alt text](<Screen Shot 2023-08-11 at 6.32.16 PM.png>) <br>
+
+Now I'm going to code along with Kylie on a version of the Tic Tac Toe game. We are now 36 minutes through the 3 hour video. This will be the sixth of 12 projects. Each of the next se7en projects should take an average of 20 minutes of the video. It is now 6:42. After the above declarations of attention span chastity, I feel hungry, so I'm going to go make a smoothie.<br>
