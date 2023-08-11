@@ -15,3 +15,7 @@ I'll be back to work more on this video later, as I've just been granted access 
 [def3]: https://www.youtube.com/watch?v=8ext9G7xspg&t=1470s
 [def4]: <Screen Shot 2023-08-09 at 8.27.59 PM.png>
 [def5]: <Screen Shot 2023-08-09 at 8.28.17 PM.png>
+
+I'm back at it on August 10, 2023, starting at about 8:10 p.m., coding along with Kylie. She just guided us through a number guessing program. <br>
+![Alt text](<Screen Shot 2023-08-10 at 8.30.50 PM.png>)
+![Alt text](<Screen Shot 2023-08-10 at 8.30.50 PM-1.png>)
