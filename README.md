@@ -37,3 +37,8 @@ Along with my vow to not watch football in my apartment this season, I am hereby
 ![Alt text](<Screen Shot 2023-08-11 at 6.32.16 PM.png>) <br>
 
 Now I'm going to code along with Kylie on a version of the Tic Tac Toe game. We are now 36 minutes through the 3 hour video. This will be the sixth of 12 projects. Each of the next se7en projects should take an average of 20 minutes of the video. It is now 6:42. After the above declarations of attention span chastity, I feel hungry, so I'm going to go make a smoothie.<br>
+
+Woah! Now exactly 1:00 hours through that 3:00-hour video and it is 8:52 p.m. Kylie took us through a whole bunch of stuff and mixed in a few concepts and clever indexing tricks that I didn't know existed. She even deliberately left some debugging in there so we could see her thought process with that. I was able to follow along and was surprised to have arrived at the same result she did. My poor little brain performed well! Next up is an "unbeatable tic tac toe AI" project that I will leave for tomorrow's codealongocalypse. <br>
+
+![Alt text](<Screen Shot 2023-08-11 at 8.51.31 PM.png>) <br>
+![Alt text](<Screen Shot 2023-08-11 at 8.51.40 PM.png>) <br>
